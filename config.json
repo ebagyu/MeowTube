@@ -1,0 +1,89 @@
+{
+    "name": "Gabe",
+    "banner": "https://images.unsplash.com/photo-1647431621437-ab31a24a39b4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=868&q=80",
+    "Job": "Student in analysis and systems development",
+    "github": "Ebagyu",
+    "playlists": {
+        "Orange Cats": [
+            {
+                "title": "Incredibly Loving Orange Cat Meows For Food.",
+                "url": "https://www.youtube.com/watch?v=f1gXHL78m_I",
+                "thumb": "https://i.ytimg.com/vi/f1gXHL78m_I/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDh7OK0z5ZmsNFambxzEhgnNkr5vQ"
+            },
+            {
+                "title": "Affectionate Ginger Cat Can’t Stop Giving His Human Love And Cuddles",
+                "url": "https://www.youtube.com/watch?v=FZ2CyF6nz4M",
+                "thumb": "https://i.ytimg.com/vi/FZ2CyF6nz4M/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCe5fJzxXVCl1WpmmGMQpDJSqRkXA"
+            },
+            {
+                "title": "Chubby orange cat wants to sleep",
+                "url": "https://www.youtube.com/watch?v=ujEuZ73qpg8",
+                "thumb": "https://i.ytimg.com/vi/ujEuZ73qpg8/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBIFkIPSsMqceSSDValxaV7-atytw"
+            },
+            {
+                "title": "Friendly Orange Tabby Cat",
+                "url": "https://www.youtube.com/watch?v=OVwS9LAtaDM",
+                "thumb": "https://i.ytimg.com/vi/OVwS9LAtaDM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCEKBxhcJdyvE1pnOZFBeoaA02E4A"
+            },
+            {
+                "title": "Orange tabby Cat chilling and meowing",
+                "url": "https://www.youtube.com/watch?v=wOMzluWw3qc",
+                "thumb": "https://i.ytimg.com/vi/wOMzluWw3qc/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB1QPXOmyQFceY_k1CxOUds_gTHDw"
+            }
+        ],
+        "Black Cats": [
+            {
+                "title": "A Very Talkative Friendly Black Cat",
+                "url": "https://www.youtube.com/watch?v=ZOMiENsrhPU",
+                "thumb": "https://i.ytimg.com/vi/ZOMiENsrhPU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAGgRHUe_b0sq7J7r4IYnK-40LxHA"
+            },
+            {
+                "title": "Very 'Scary' Cat Is Obsessed With A Tiny Almond | The Dodo Cat Crazy",
+                "url": "https://www.youtube.com/watch?v=0bg67GmTVXY",
+                "thumb": "https://i.ytimg.com/vi/0bg67GmTVXY/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD5gpjtzZaW_O3oAOdjxUy5IN1Pug"
+            },
+            {
+                "title": "Black Cats Rule! #blackcatsrule",
+                "url": "https://www.youtube.com/watch?v=hWR5zrji7LQ",
+                "thumb": "https://i.ytimg.com/vi/hWR5zrji7LQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAaFANgOyypEQdavT-nC1_UInDOrA"
+            },
+            {
+                "title": "Top 10 Reasons to Adopt a Black Cat",
+                "url": "https://www.youtube.com/watch?v=w4CLv5KbJGM",
+                "thumb": "https://i.ytimg.com/vi/w4CLv5KbJGM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBIaEq_OA2PMSpIvjDVOQKUrI-isQ"
+            },
+            {
+                "title": "Black cat is so cute",
+                "url": "https://www.youtube.com/watch?v=w7aUSs42aMk",
+                "thumb": "https://i.ytimg.com/vi/w7aUSs42aMk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLACYjumxdeiNWYAeXUqFwgtkMUq_w"
+            }
+        ],
+        "White Cats": [
+            {
+                "title": "White kitten and white tiny bunnies 🐰 | It's so Сute! ",
+                "url": "https://www.youtube.com/watch?v=te1fHMaw4UY",
+                "thumb": "https://i.ytimg.com/vi/te1fHMaw4UY/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD-KziKrTAwQwPZtWAjcAQ8z131Rw"
+            },
+            {
+                "title": "Beautiful White Persian Cat with Blue Eyes",
+                "url": "https://www.youtube.com/watch?v=2q36y9DIfc4",
+                "thumb": "https://i.ytimg.com/vi/2q36y9DIfc4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCVH5Yo_4sZMhENpCYZoEQqT8xbOQ"
+            },
+            {
+                "title": "White cat very angry",
+                "url": "https://www.youtube.com/watch?v=WihQCnmBSJo",
+                "thumb": "https://i.ytimg.com/vi/WihQCnmBSJo/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBqC0GSvERcGWDQCnUKC-43Rdo53A"
+            },
+            {
+                "title": "Cute Dog Attacked By Angry White Cat.",
+                "url": "https://www.youtube.com/watch?v=djW-IR1G_EE",
+                "thumb": "https://i.ytimg.com/vi/djW-IR1G_EE/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCprAYwI4zpmqXIc1c1Eu31fcdeJg"
+            },
+            {
+                "title": "It takes courage to touch Angry White Cats. Cutest Wild Cat. Adorable Paws",
+                "url": "https://www.youtube.com/watch?v=7kfAXu1Mk6s",
+                "thumb": "https://i.ytimg.com/vi/7kfAXu1Mk6s/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvIdGms8PPkxg7EZykjBF7ToEyOg"
+            }
+        ]
+    }
+}
